@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Projet final - Adji Ka, née le 01/01/2004 -->
-<document cote="LIV-014" type="livre" disponible="true"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:noNamespaceSchemaLocation="catalogue.xsd">
+<document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="catalogue.xsd"
+          cote="LIV-014" type="livre" disponible="true">
     <titre>Le Jardin des Sables</titre>
     <auteur>Karime</auteur>
     <auteur>Awa seck</auteur>
